@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-redux/static/css/main.b3baa2e6.css",
-    "main.js": "/react-redux/static/js/main.97046d8c.js",
-    "index.html": "/react-redux/index.html",
-    "main.b3baa2e6.css.map": "/react-redux/static/css/main.b3baa2e6.css.map",
-    "main.97046d8c.js.map": "/react-redux/static/js/main.97046d8c.js.map"
+    "main.css": "/addBooks/static/css/main.b3baa2e6.css",
+    "main.js": "/addBooks/static/js/main.97046d8c.js",
+    "index.html": "/addBooks/index.html",
+    "main.b3baa2e6.css.map": "/addBooks/static/css/main.b3baa2e6.css.map",
+    "main.97046d8c.js.map": "/addBooks/static/js/main.97046d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.b3baa2e6.css",
